@@ -13,7 +13,8 @@
     "aurelia-fetch-client": "^1.0.0-rc.1.0.0",
     "aurelia-materialize-bridge": "^0.17.0",
     "aurelia-validation": "^0.12.5",
-    "bluebird": "^3.4.1"
+    "bluebird": "^3.4.1",
+    "font-awesome": "^4.6.3"
   },
   "peerDependencies": {},
   "devDependencies": {
@@ -38,6 +39,7 @@
     "karma-typescript-preprocessor": "^0.2.1",
     "materialize-css": "^0.97.7",
     "minimatch": "^3.0.2",
+    "path": "^0.12.7",
     "requirejs": "^2.3.2",
     "through2": "^2.0.1",
     "tslint": "^3.11.0",
