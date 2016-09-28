@@ -7,7 +7,7 @@ For more tutorial info on UI bridges, see this [intro](https://aurelia-ui-toolki
 ### Run
 
 - Install dependencies: `npm i`
-- Run via: `ai run`
+- Run via: `ai run --watch`
 - Open `http://localhost:9000/` in your browser of choice
 
 
